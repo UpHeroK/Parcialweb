@@ -1,0 +1,37 @@
+body {font-family: Arial, Helvetica, sans-serif; background-color: #FFF8DC;}
+
+ 
+
+table { font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif; font-size: 12px; margin: 45px; width: 550px;
+
+    text-align: center; border-collapse: collapse; }
+
+ 
+
+th { font-size: 13px; font-weight: normal; padding: 8px; background: #a4a6aa; border-top: 4px solid #817d7d;
+
+    border-bottom: 1px solid #fff; color: rgb(0, 0, 0); }
+
+ 
+
+td { padding: 8px; background: #a4b0db; border-bottom: 1px solid #fff; color: rgb(0, 0, 0); border-top: 1px solid transparent; }
+
+ 
+
+tr:hover td { background: #d0dafd; color: #339; }
+
+ 
+
+.editar {color: blue; cursor:pointer;}
+
+ 
+
+#contenedorForm {margin-left: 45px; font-size:12px;}
+
+ 
+
+.boton {   color: black; padding: 5px; margin: 10px;
+
+  background-color: #b9c9fe;
+
+  font-weight: bold; }
